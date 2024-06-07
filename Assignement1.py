@@ -1,3 +1,5 @@
+'''Print Triangle
+Create lower triangular, upper triangular and pyramid containing the "*" character.'''
 def lower_triangular(n):
     print("Lower Triangular:")
     for i in range(1, n + 1):
